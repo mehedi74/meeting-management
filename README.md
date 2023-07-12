@@ -1,1 +1,1 @@
-# meeting-management
+A simple meeting managenet application where user can manage companies and the contact person of the company and easily set meeting or check meeting details,status and many more.sql is provided.Just import and run the appplication.
